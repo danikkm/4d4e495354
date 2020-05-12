@@ -1,0 +1,6 @@
+Python 2.7
+Keras 2.3.1
+Tensorflow 1.14.0
+Coremoltools 3.3
+
+https://qiita.com/shu223/items/7679eaeea9c243c80c4d
